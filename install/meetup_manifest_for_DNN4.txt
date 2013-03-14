@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dotnetnuke version="3.0" type="Module">
+	<folders>
+		<folder>
+			<name>DONEIN_NET\Meetup</name>
+			<description>This DotNetNuke module provides an easy way for you to promote your Meetup group to your web site visitors.</description>
+			<version>01.00.00</version>
+			<modules>
+				<module>
+					<friendlyname>Meetup</friendlyname>
+					<controls>
+						<control>
+							<src>base.ascx</src>
+							<type>View</type>
+						</control>
+						<control>
+							<key>Edit</key>
+							<title>Meetup Options</title>
+							<src>settings.ascx</src>
+							<type>Edit</type>
+						</control>					
+					</controls>
+				</module>
+			</modules>
+			<files>
+				<file>
+					<name>base.ascx</name>
+				</file>
+				<file>
+					<name>settings.ascx</name>
+				</file>
+				<file>
+					<name>module.css</name>
+				</file>
+				<file>
+					<name>DONEIN.NET.Meetup.dll</name>
+				</file>
+				<file>
+					<name>DONEIN.NET.Module_Info.dll</name>
+				</file>
+				
+				<file>
+					<path>App_LocalResources</path>
+					<name>base.ascx.resx</name>					
+				</file>
+				<file>
+					<path>App_LocalResources</path>
+					<name>settings.ascx.resx</name>					
+				</file>
+				<file>
+					<path>images</path>
+					<name>meetup.png</name>					
+				</file>
+			</files>
+		</folder>
+	</folders>
+</dotnetnuke>

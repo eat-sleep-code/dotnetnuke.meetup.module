@@ -1,0 +1,183 @@
+﻿/* =============================================================== */
+/* FEEDBACK CSS CLASSES                                            */
+/* =============================================================== */
+
+
+
+.donein_meetup_message 
+{
+	color: #DD0000;
+	font-weight: bold;
+	text-align: justify;
+}
+
+.donein_meetup_border
+{
+	width: 300px;
+	height: 2px;
+	margin-top: 6px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	background-image: url('images/border.png');
+	clear: both;
+}
+
+.donein_meetup_meeting
+{
+	width: 300px;
+	clear: both;
+}
+
+.donein_meetup_left
+{
+	width: 75px;
+	text-align: center;
+	float: left;
+}
+
+.donein_meetup_right
+{
+	width: 225px;
+	text-align: left;
+	float: right;
+}
+
+.donein_meetup_calendar_month
+{
+	width: 72px;
+	height: 56px;
+	padding-top: 3px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	margin-top: 3px;
+	margin-left: 0px;
+	margin-right: 20px;	
+	margin-bottom: 1px;
+	border-style: solid;
+	border-width: 0px;
+	border-color: #DC7939;
+	background-color: #DC7939;
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+.donein_meetup_calendar_date
+{
+	position: relative;
+	width: 71px;
+	height: 39px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	margin-top: 2px;
+	margin-left: 0px;
+	margin-right: 0px;	
+	margin-bottom: 0px;
+	border-style: solid;
+	border-width: 0px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Arial;
+	font-size: 21pt;
+	font-weight: bold;
+	line-height: normal;
+	vertical-align: middle;
+	text-align: center;
+}
+
+
+
+.donein_meetup_calendar_day
+{
+	font-family: Arial;
+	font-size: 8pt;
+	font-weight: bold;
+}	
+
+.donein_meetup_calendar_time
+{
+	font-family: Arial;
+	font-size: 8pt;
+	font-weight: normal;
+}		
+
+.donein_meetup_title_text
+{
+	height: 46px;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.donein_meetup_title_link
+{
+	text-decoration: none;
+}
+
+.donein_meetup_more_text
+{
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size: 10pt;
+}
+
+.donein_meetup_more_link
+{
+	font-size: 10pt;
+}
+
+.donein_meetup_detail
+{
+	width: 300px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	margin-top: 2px;
+	margin-left: 0px;
+	margin-right: 0px;	
+	margin-bottom: 0px;
+	background-image: url('images/background.png');
+	clear: both;
+	float: left;
+}
+
+.donein_meetup_detail_left
+{
+	width: 85px;
+	padding-top: 4px;
+	padding-left: 8px;
+	padding-right: 4px;
+	padding-bottom: 5px;
+	margin-top: 1px;
+	background-image: url('images/background.png');
+	vertical-align: top;
+	text-align: left;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.donein_meetup_detail_right
+{
+	width: 215px;
+	padding-top: 4px;
+	padding-left: 6px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	margin-top: 1px;
+	vertical-align: top;
+	font-size: 8pt;
+	text-align: justify;	
+}

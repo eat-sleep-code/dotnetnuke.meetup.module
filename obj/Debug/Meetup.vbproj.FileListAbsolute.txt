@@ -1,0 +1,11 @@
+E:\wwwroot\Common\donein.net\Meetup\bin\DONEIN.NET.Meetup.dll
+E:\wwwroot\Common\donein.net\Meetup\bin\DONEIN.NET.Meetup.pdb
+E:\wwwroot\Common\donein.net\Meetup\bin\DONEIN.NET.Module_Info.dll
+E:\wwwroot\Common\donein.net\Meetup\bin\DONEIN.NET.Module_Info.pdb
+E:\wwwroot\Common\donein.net\Meetup\obj\Debug\ResolveAssemblyReference.cache
+E:\wwwroot\Common\donein.net\Meetup\obj\Debug\DONEIN_NET.Meetup.Base.resources
+E:\wwwroot\Common\donein.net\Meetup\obj\Debug\Resources.resources
+E:\wwwroot\Common\donein.net\Meetup\obj\Debug\DONEIN_NET.Meetup.Settings.resources
+E:\wwwroot\Common\donein.net\Meetup\obj\Debug\Meetup.vbproj.GenerateResource.Cache
+E:\wwwroot\Common\donein.net\Meetup\obj\Debug\DONEIN.NET.Meetup.dll
+E:\wwwroot\Common\donein.net\Meetup\obj\Debug\DONEIN.NET.Meetup.pdb

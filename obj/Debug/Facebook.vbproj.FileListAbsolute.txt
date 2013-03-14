@@ -1,0 +1,11 @@
+E:\wwwroot\Common\donein.net\Facebook\bin\DONEIN.NET.Share_On_Facebook.dll
+E:\wwwroot\Common\donein.net\Facebook\bin\DONEIN.NET.Share_On_Facebook.pdb
+E:\wwwroot\Common\donein.net\Facebook\bin\DONEIN.NET.Module_Info.dll
+E:\wwwroot\Common\donein.net\Facebook\bin\DONEIN.NET.Module_Info.pdb
+E:\wwwroot\Common\donein.net\Facebook\obj\Debug\ResolveAssemblyReference.cache
+E:\wwwroot\Common\donein.net\Facebook\obj\Debug\DONEIN_NET.Share_On_Facebook.Base.resources
+E:\wwwroot\Common\donein.net\Facebook\obj\Debug\Resources.resources
+E:\wwwroot\Common\donein.net\Facebook\obj\Debug\DONEIN_NET.Share_On_Facebook.Settings.resources
+E:\wwwroot\Common\donein.net\Facebook\obj\Debug\Facebook.vbproj.GenerateResource.Cache
+E:\wwwroot\Common\donein.net\Facebook\obj\Debug\DONEIN.NET.Share_On_Facebook.dll
+E:\wwwroot\Common\donein.net\Facebook\obj\Debug\DONEIN.NET.Share_On_Facebook.pdb

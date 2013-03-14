@@ -1,0 +1,124 @@
+﻿<dotnetnuke type="Package" version="5.0">
+	<packages>
+		<package name="DONEIN_NET\Meetup" type="Module" version="1.0.0">
+			<friendlyName>DONEIN_NET\Meetup</friendlyName>
+			<description>This DotNetNuke module provides an easy way for you to promote your Meetup group to your web site visitors.</description>
+			<owner>
+				<name>DONEIN.NET</name>
+				<organization>DONEIN.NET</organization>
+				<url>http://www.donein.net/</url>
+				<email>support@donein.net</email>
+			</owner>
+			<license>
+				<![CDATA[<DIV STYLE="text-align: justify;">
+					Purchase of the Standard Edition of this module grants you the right to install this module for up to two (2) web sites.  
+					The license allows for installation in a three-tier (development, test, and production) environment with no extra cost.
+					<BR />
+					<BR />
+					If you need to install this module on more than two web sites, or if you plan to resell this module, please consider the Enterprise Edition.   
+					Purchase of the Enterprise Edition of this module grants you the right to install this module on an unlimited number of web sites.
+					<BR />
+					<BR />
+					If purchasing the source code for this module, you are allowed to alter the code to meet your requirements.  
+					However, you may not resell the module as your own creation.  
+					<BR />
+					<BR />
+				</DIV>]]>
+			</license>
+			<releaseNotes>
+				<![CDATA[<DIV STYLE="text-align: justify;">
+					<SPAN STYLE="font-weight: bold;">Version 1.0.0</SPAN>
+					<UL>
+						<LI>Initial Release</LI>
+					</UL>
+					<BR />
+				</DIV>]]>
+			</releaseNotes>
+			<components>
+				<component type="Module">
+					<desktopModule>
+						<moduleName>DONEIN_NET\Meetup</moduleName>
+						<foldername>DONEIN_NET\Meetup</foldername>
+						<businessControllerClass />
+						<supportedFeatures />
+						<moduleDefinitions>
+							<moduleDefinition>
+								<friendlyName>Meetup</friendlyName>
+								<defaultCacheTime>0</defaultCacheTime>
+								<moduleControls>
+									<moduleControl>
+										<controlKey />
+										<controlSrc>DesktopModules/DONEIN_NET/Meetup/base.ascx</controlSrc>
+										<supportsPartialRendering>False</supportsPartialRendering>
+										<controlTitle />
+										<controlType>View</controlType>
+										<iconFile />
+										<helpUrl />
+										<viewOrder>0</viewOrder>
+									</moduleControl>
+									<moduleControl>
+										<controlKey>Edit</controlKey>
+										<controlSrc>DesktopModules/DONEIN_NET/Meetup/settings.ascx</controlSrc>
+										<supportsPartialRendering>False</supportsPartialRendering>
+										<controlTitle>Meetup Options</controlTitle>
+										<controlType>Edit</controlType>
+										<iconFile />
+										<helpUrl />
+										<viewOrder>0</viewOrder>
+									</moduleControl>
+								</moduleControls>
+							</moduleDefinition>
+						</moduleDefinitions>
+					</desktopModule>
+				</component>
+				<component type="Assembly">
+					<assemblies>
+						<basePath>bin</basePath>
+						<assembly>
+							<path>bin</path>
+							<name>DONEIN.NET.Meetup.dll</name>
+							<sourceFileName>DONEIN.NET.Meetup.dll</sourceFileName>
+						</assembly>
+						<assembly>
+							<path>bin</path>
+							<name>DONEIN.NET.Module_Info.dll</name>
+							<sourceFileName>DONEIN.NET.Module_Info.dll</sourceFileName>
+						</assembly>
+					</assemblies>
+				</component>
+				<component type="File">
+					<files>
+						<basePath>DesktopModules\DONEIN_NET\Meetup</basePath>
+						<file>
+							<name>base.ascx</name>
+							<sourceFileName>base.ascx</sourceFileName>
+						</file>
+						<file>
+							<name>settings.ascx</name>
+							<sourceFileName>settings.ascx</sourceFileName>
+						</file>
+						<file>
+							<name>module.css</name>
+							<sourceFileName>module.css</sourceFileName>
+						</file>
+						<file>
+							<path>App_LocalResources</path>
+							<name>base.ascx.resx</name>
+							<sourceFileName>base.ascx.resx</sourceFileName>
+						</file>
+						<file>
+							<path>App_LocalResources</path>
+							<name>settings.ascx.resx</name>
+							<sourceFileName>settings.ascx.resx</sourceFileName>
+						</file>
+						<file>
+							<path>images</path>
+							<name>meetup.png</name>
+							<sourceFileName>meetup.png</sourceFileName>
+						</file>h
+					</files>
+				</component>
+			</components>
+		</package>
+	</packages>
+</dotnetnuke>
